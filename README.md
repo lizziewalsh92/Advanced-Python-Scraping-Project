@@ -8,6 +8,6 @@ Before further analysis for my capstone, I will speak with an OCR confidence exp
 For implementation in the larger project, I will repurpose my code for other common substances to draw conclusions about kratom addictiveness/popularity.
 Other similarly classified legal substances include: lion's mane, kava, kanna, ashwaghanda, hemp. Plotting change over time in appearance of these substances compared to kratom can provide context for kratom's outsized popularity, growth trends, and addictive properties.</br>
 
-**NOTE:**This project required an API/JSON scrape, so some lines of code are annotated *I used CHATGPT to help me do this* or *I used CHATGPT to explain this code* as we have not yet learned API scraping as of 11/3/2025.
+**NOTE:** This project required an API/JSON scrape, so some lines of code are annotated *I used CHATGPT to help me do this* or *I used CHATGPT to explain this code* as we have not yet learned API scraping as of 11/3/2025.
 
 
